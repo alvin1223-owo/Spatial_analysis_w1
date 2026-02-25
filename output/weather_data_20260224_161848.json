@@ -1,0 +1,4602 @@
+[
+  {
+    "station_name": "基隆",
+    "station_id": "466940",
+    "location": "基隆市仁愛區",
+    "coordinates": {
+      "lat": "25.133314",
+      "lon": "121.740475"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "86",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.5",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "40.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.7",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "7-10"
+  },
+  {
+    "station_name": "淡水",
+    "station_id": "466900",
+    "location": "新北市淡水區",
+    "coordinates": {
+      "lat": "25.164889",
+      "lon": "121.448906"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "90",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.7",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "290.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有雨",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有雨",
+    "visibility": "7-10"
+  },
+  {
+    "station_name": "新北",
+    "station_id": "466881",
+    "location": "新北市新店區",
+    "coordinates": {
+      "lat": "24.959207",
+      "lon": "121.525196"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "69",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.8",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "260.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "0",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.4",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "21-30"
+  },
+  {
+    "station_name": "陽明山",
+    "station_id": "466930",
+    "location": "臺北市北投區",
+    "coordinates": {
+      "lat": "25.162078",
+      "lon": "121.544547"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "18.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "89",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "945.3",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.4",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "鞍部",
+    "station_id": "466910",
+    "location": "臺北市北投區",
+    "coordinates": {
+      "lat": "25.182586",
+      "lon": "121.529731"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "17.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "93",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "230.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "新竹",
+    "station_id": "467571",
+    "location": "新竹縣竹北市",
+    "coordinates": {
+      "lat": "24.828575",
+      "lon": "121.014450"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.5",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "0",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.8",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "21-30"
+  },
+  {
+    "station_name": "臺中",
+    "station_id": "467490",
+    "location": "臺中市北區",
+    "coordinates": {
+      "lat": "24.145736",
+      "lon": "120.684075"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1003.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "1.9",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "16-20"
+  },
+  {
+    "station_name": "梧棲",
+    "station_id": "C0FA30",
+    "location": "臺中市梧棲區",
+    "coordinates": {
+      "lat": "24.256003",
+      "lon": "120.523381"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "92",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "澎湖",
+    "station_id": "467350",
+    "location": "澎湖縣馬公市",
+    "coordinates": {
+      "lat": "23.565503",
+      "lon": "119.563094"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "82",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1012.1",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "10.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.5",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "21-30"
+  },
+  {
+    "station_name": "日月潭",
+    "station_id": "467650",
+    "location": "南投縣魚池鄉",
+    "coordinates": {
+      "lat": "23.881325",
+      "lon": "120.908050"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "19.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "85",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "280.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "3.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有靄",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有靄",
+    "visibility": "7-10"
+  },
+  {
+    "station_name": "阿里山",
+    "station_id": "467530",
+    "location": "嘉義縣阿里山鄉",
+    "coordinates": {
+      "lat": "23.508208",
+      "lon": "120.813242"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "11.4",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "89",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "160.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "3",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.6",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "玉山",
+    "station_id": "467550",
+    "location": "南投縣信義鄉",
+    "coordinates": {
+      "lat": "23.487180",
+      "lon": "120.959430"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "7.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "61",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "200.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "3",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "1.7",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "嘉義",
+    "station_id": "467480",
+    "location": "嘉義市西區",
+    "coordinates": {
+      "lat": "23.495925",
+      "lon": "120.432906"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺南",
+    "station_id": "467410",
+    "location": "臺南市中西區",
+    "coordinates": {
+      "lat": "22.993280",
+      "lon": "120.204920"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "67",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.1",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "330.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "1.7",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "11-15"
+  },
+  {
+    "station_name": "高雄",
+    "station_id": "467441",
+    "location": "高雄市楠梓區",
+    "coordinates": {
+      "lat": "22.730432",
+      "lon": "120.312516"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "70",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.2",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "300.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "恆春",
+    "station_id": "467590",
+    "location": "屏東縣恆春鎮",
+    "coordinates": {
+      "lat": "22.003897",
+      "lon": "120.746339"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "67",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1009.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "100.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "4",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.6",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "宜蘭",
+    "station_id": "467080",
+    "location": "宜蘭縣宜蘭市",
+    "coordinates": {
+      "lat": "24.763975",
+      "lon": "121.756528"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "75",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1012.7",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "30.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.7",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "花蓮",
+    "station_id": "466990",
+    "location": "花蓮縣花蓮市",
+    "coordinates": {
+      "lat": "23.975128",
+      "lon": "121.613275"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "25.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "78",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.8",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "4.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "170.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "4.7",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "21-30"
+  },
+  {
+    "station_name": "成功",
+    "station_id": "467610",
+    "location": "臺東縣成功鎮",
+    "coordinates": {
+      "lat": "23.097486",
+      "lon": "121.373428"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "25.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "72",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1008.3",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "140.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "3",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.2",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "臺東",
+    "station_id": "467660",
+    "location": "臺東縣臺東市",
+    "coordinates": {
+      "lat": "22.752211",
+      "lon": "121.154586"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.4",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "150.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "3",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "3.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "大武",
+    "station_id": "467540",
+    "location": "臺東縣大武鄉",
+    "coordinates": {
+      "lat": "22.355720",
+      "lon": "120.903740"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "120.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "3",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "4.0",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "蘭嶼",
+    "station_id": "467620",
+    "location": "臺東縣蘭嶼鄉",
+    "coordinates": {
+      "lat": "22.036900",
+      "lon": "121.558430"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "81",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "976.3",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "180.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "3.8",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "彭佳嶼",
+    "station_id": "466950",
+    "location": "基隆市中正區",
+    "coordinates": {
+      "lat": "25.627975",
+      "lon": "122.079744"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "19.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "94",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1002.2",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "310.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.2",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有靄",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有靄",
+    "visibility": "7-10"
+  },
+  {
+    "station_name": "東吉島",
+    "station_id": "467300",
+    "location": "澎湖縣望安鄉",
+    "coordinates": {
+      "lat": "23.257270",
+      "lon": "119.667620"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "82",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1008.4",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "4.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "30.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.9",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "21-30"
+  },
+  {
+    "station_name": "南沙島",
+    "station_id": "469020",
+    "location": "高雄市旗津區",
+    "coordinates": {
+      "lat": "10.370203",
+      "lon": "114.364286"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "-99",
+        "unit": ""
+      }
+    },
+    "raw_weather": "-99",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "東沙島",
+    "station_id": "468100",
+    "location": "高雄市旗津區",
+    "coordinates": {
+      "lat": "20.700856",
+      "lon": "116.730000"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "永康",
+    "station_id": "467420",
+    "location": "臺南市永康區",
+    "coordinates": {
+      "lat": "23.038386",
+      "lon": "120.236700"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "66",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "2",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "2.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "金門(東)",
+    "station_id": "C2W030",
+    "location": "金門縣金湖鎮",
+    "coordinates": {
+      "lat": "24.448431",
+      "lon": "118.451786"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "16.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "97",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "140.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有雨",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有雨",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺北",
+    "station_id": "466920",
+    "location": "臺北市中正區",
+    "coordinates": {
+      "lat": "25.037658",
+      "lon": "121.514853"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.4",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "65",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.2",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.2",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "彰師大",
+    "station_id": "A0G720",
+    "location": "彰化縣彰化市",
+    "coordinates": {
+      "lat": "24.081389",
+      "lon": "120.556667"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "83",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "合歡山",
+    "station_id": "A0Z080",
+    "location": "花蓮縣秀林鄉",
+    "coordinates": {
+      "lat": "24.143186",
+      "lon": "121.284231"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "5.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "82",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "5.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "90.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "吉貝",
+    "station_id": "A0W080",
+    "location": "澎湖縣白沙鄉",
+    "coordinates": {
+      "lat": "23.740011",
+      "lon": "119.604189"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "金門",
+    "station_id": "467110",
+    "location": "金門縣金城鎮",
+    "coordinates": {
+      "lat": "24.407306",
+      "lon": "118.289281"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "16.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "98",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1010.7",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "140.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.0",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有霧",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有霧",
+    "visibility": "<1"
+  },
+  {
+    "station_name": "馬祖",
+    "station_id": "467990",
+    "location": "連江縣南竿鄉",
+    "coordinates": {
+      "lat": "26.169467",
+      "lon": "119.923158"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "15.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "98",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1003.4",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "190.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.1",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有靄",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有靄",
+    "visibility": "3-6"
+  },
+  {
+    "station_name": "麥寮",
+    "station_id": "A0K420",
+    "location": "雲林縣麥寮鄉",
+    "coordinates": {
+      "lat": "23.798783",
+      "lon": "120.217717"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "83",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "5.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "20.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "新屋",
+    "station_id": "467050",
+    "location": "桃園市新屋區",
+    "coordinates": {
+      "lat": "25.006725",
+      "lon": "121.047492"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "88",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1011.4",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "0",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.1",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "11-15"
+  },
+  {
+    "station_name": "古坑(花卉中心)",
+    "station_id": "A2K570",
+    "location": "雲林縣古坑鄉",
+    "coordinates": {
+      "lat": "23.633530",
+      "lon": "120.552390"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "大安森林",
+    "station_id": "CAAH60",
+    "location": "臺北市大安區",
+    "coordinates": {
+      "lat": "25.029550",
+      "lon": "121.536280"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "65",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "消防署訓練中心",
+    "station_id": "CAHA00",
+    "location": "南投縣竹山鎮",
+    "coordinates": {
+      "lat": "23.821370",
+      "lon": "120.722930"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "330.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "田中",
+    "station_id": "467270",
+    "location": "彰化縣田中鎮",
+    "coordinates": {
+      "lat": "23.873803",
+      "lon": "120.581286"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.4",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "72",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1008.5",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "1.2",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": ">30"
+  },
+  {
+    "station_name": "拉拉山",
+    "station_id": "CAC040",
+    "location": "桃園市復興區",
+    "coordinates": {
+      "lat": "24.699317",
+      "lon": "121.427133"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "13.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "92",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "100.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "東引",
+    "station_id": "CAW010",
+    "location": "連江縣東引鄉",
+    "coordinates": {
+      "lat": "26.358836",
+      "lon": "120.483631"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "14.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "95",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "150.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰有靄",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰有靄",
+    "visibility": "3-6"
+  },
+  {
+    "station_name": "高雄燈塔",
+    "station_id": "CAP070",
+    "location": "高雄市旗津區",
+    "coordinates": {
+      "lat": "22.614594",
+      "lon": "120.264680"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "77",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "180.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "武陵",
+    "station_id": "A0F010",
+    "location": "臺中市和平區",
+    "coordinates": {
+      "lat": "24.352825",
+      "lon": "121.308286"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "16.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "67",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "200.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "後龍",
+    "station_id": "467280",
+    "location": "苗栗縣造橋鄉",
+    "coordinates": {
+      "lat": "24.648563",
+      "lon": "120.831834"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "91",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1009.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "10.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "0",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "0.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "11-15"
+  },
+  {
+    "station_name": "古坑",
+    "station_id": "467290",
+    "location": "雲林縣古坑鄉",
+    "coordinates": {
+      "lat": "23.633639",
+      "lon": "120.551889"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "1002.6",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "1",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "1.3",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "中央大學",
+    "station_id": "C2C410",
+    "location": "桃園市中壢區",
+    "coordinates": {
+      "lat": "24.967652",
+      "lon": "121.185165"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "30.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "文化大學",
+    "station_id": "A0A460",
+    "location": "臺北市士林區",
+    "coordinates": {
+      "lat": "25.136050",
+      "lon": "121.539870"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "20.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "240.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺灣大學",
+    "station_id": "A0A010",
+    "location": "臺北市大安區",
+    "coordinates": {
+      "lat": "25.014278",
+      "lon": "121.539416"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "班鳩分場",
+    "station_id": "72S200",
+    "location": "臺東縣卑南鄉",
+    "coordinates": {
+      "lat": "22.829528",
+      "lon": "121.077694"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "70",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "100.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "賓朗果園",
+    "station_id": "72S590",
+    "location": "臺東縣卑南鄉",
+    "coordinates": {
+      "lat": "22.813889",
+      "lon": "121.071278"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "20.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺東茶改",
+    "station_id": "82S580",
+    "location": "臺東縣鹿野鄉",
+    "coordinates": {
+      "lat": "22.907694",
+      "lon": "121.130139"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "72",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺大溪頭",
+    "station_id": "U2H480",
+    "location": "南投縣鹿谷鄉",
+    "coordinates": {
+      "lat": "23.670306",
+      "lon": "120.798194"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "16.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "96",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺中農改",
+    "station_id": "72G600",
+    "location": "彰化縣大村鄉",
+    "coordinates": {
+      "lat": "24.003028",
+      "lon": "120.534389"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "76",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "雲林分場",
+    "station_id": "72K220",
+    "location": "雲林縣斗南鎮",
+    "coordinates": {
+      "lat": "23.634556",
+      "lon": "120.477333"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺南農改",
+    "station_id": "72N100",
+    "location": "臺南市新化區",
+    "coordinates": {
+      "lat": "23.060500",
+      "lon": "120.342194"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "67",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "旗南農改",
+    "station_id": "72V140",
+    "location": "高雄市旗山區",
+    "coordinates": {
+      "lat": "22.857861",
+      "lon": "120.516667"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "65",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "290.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "高雄農改",
+    "station_id": "72Q010",
+    "location": "屏東縣長治鄉",
+    "coordinates": {
+      "lat": "22.709333",
+      "lon": "120.525889"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "28.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "60",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "新竹畜試",
+    "station_id": "B2E890",
+    "location": "苗栗縣西湖鄉",
+    "coordinates": {
+      "lat": "24.527806",
+      "lon": "120.770972"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "88",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "110.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "桃園農改",
+    "station_id": "72C440",
+    "location": "桃園市新屋區",
+    "coordinates": {
+      "lat": "24.950944",
+      "lon": "121.030583"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "79",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "270.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "五峰站",
+    "station_id": "72D080",
+    "location": "新竹縣五峰鄉",
+    "coordinates": {
+      "lat": "24.612194",
+      "lon": "121.157167"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "15.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "100",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "990.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "茶改場",
+    "station_id": "82C160",
+    "location": "桃園市楊梅區",
+    "coordinates": {
+      "lat": "24.908472",
+      "lon": "121.185333"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "農工中心",
+    "station_id": "A2C560",
+    "location": "桃園市中壢區",
+    "coordinates": {
+      "lat": "24.985917",
+      "lon": "121.239833"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "文山茶改",
+    "station_id": "82A750",
+    "location": "新北市石碇區",
+    "coordinates": {
+      "lat": "24.955778",
+      "lon": "121.631222"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "78",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "蘭陽分場",
+    "station_id": "72U480",
+    "location": "宜蘭縣三星鄉",
+    "coordinates": {
+      "lat": "24.686306",
+      "lon": "121.716583"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "70",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "苗栗農改",
+    "station_id": "K2E360",
+    "location": "苗栗縣公館鄉",
+    "coordinates": {
+      "lat": "24.495722",
+      "lon": "120.829111"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "78",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "大湖分場",
+    "station_id": "K2E710",
+    "location": "苗栗縣大湖鄉",
+    "coordinates": {
+      "lat": "24.422861",
+      "lon": "120.871833"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "77",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "種苗繁殖",
+    "station_id": "K2F750",
+    "location": "臺中市新社區",
+    "coordinates": {
+      "lat": "24.225972",
+      "lon": "120.800917"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "20.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "81",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "凍頂茶改",
+    "station_id": "82H840",
+    "location": "南投縣鹿谷鄉",
+    "coordinates": {
+      "lat": "23.762528",
+      "lon": "120.740500"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "330.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "魚池茶改",
+    "station_id": "82H320",
+    "location": "南投縣魚池鄉",
+    "coordinates": {
+      "lat": "23.875611",
+      "lon": "120.913583"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "19.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "79",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "230.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺大竹山",
+    "station_id": "U2HA50",
+    "location": "南投縣竹山鎮",
+    "coordinates": {
+      "lat": "23.756972",
+      "lon": "120.681556"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "嘉義農試",
+    "station_id": "G2L020",
+    "location": "嘉義市東區",
+    "coordinates": {
+      "lat": "23.485028",
+      "lon": "120.473806"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "72",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "340.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "義竹分場",
+    "station_id": "72M360",
+    "location": "嘉義縣義竹鄉",
+    "coordinates": {
+      "lat": "23.360694",
+      "lon": "120.279361"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "25.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "63",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "4.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "330.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "畜試所",
+    "station_id": "B2N890",
+    "location": "臺南市新化區",
+    "coordinates": {
+      "lat": "23.058972",
+      "lon": "120.336406"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "68",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "340.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "鳳山農試",
+    "station_id": "G2P820",
+    "location": "高雄市鳳山區",
+    "coordinates": {
+      "lat": "22.646611",
+      "lon": "120.356083"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.7",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "68",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "320.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "恆春畜試",
+    "station_id": "B2Q810",
+    "location": "屏東縣恆春鎮",
+    "coordinates": {
+      "lat": "21.945583",
+      "lon": "120.802167"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "66",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "100.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "花蓮農改",
+    "station_id": "72T250",
+    "location": "花蓮縣吉安鄉",
+    "coordinates": {
+      "lat": "23.975222",
+      "lon": "121.563889"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "79",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "蓮華池",
+    "station_id": "E2H360",
+    "location": "南投縣魚池鄉",
+    "coordinates": {
+      "lat": "23.918333",
+      "lon": "120.885278"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "21.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "埔里分場",
+    "station_id": "72HA00",
+    "location": "南投縣魚池鄉",
+    "coordinates": {
+      "lat": "23.903208",
+      "lon": "120.963364"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "72",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺大和社",
+    "station_id": "U2HA30",
+    "location": "南投縣信義鄉",
+    "coordinates": {
+      "lat": "23.590856",
+      "lon": "120.888864"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "77",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.8",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "10.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "臺大內茅埔",
+    "station_id": "U2HA40",
+    "location": "南投縣信義鄉",
+    "coordinates": {
+      "lat": "23.689722",
+      "lon": "120.851117"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "300.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "溪口農場",
+    "station_id": "G2M350",
+    "location": "嘉義縣溪口鄉",
+    "coordinates": {
+      "lat": "23.585650",
+      "lon": "120.408111"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "四湖植物園",
+    "station_id": "E2K600",
+    "location": "雲林縣四湖鄉",
+    "coordinates": {
+      "lat": "23.676986",
+      "lon": "120.163433"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "98",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "30.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "農業試驗所",
+    "station_id": "G2F820",
+    "location": "臺中市霧峰區",
+    "coordinates": {
+      "lat": "24.031261",
+      "lon": "120.688133"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.5",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "嘉義分場",
+    "station_id": "72M700",
+    "location": "嘉義縣鹿草鄉",
+    "coordinates": {
+      "lat": "23.416869",
+      "lon": "120.283061"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "71",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "七股研究中心",
+    "station_id": "72N240",
+    "location": "臺南市七股區",
+    "coordinates": {
+      "lat": "23.081672",
+      "lon": "120.062894"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "24.4",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "79",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "4.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "350.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "萬大發電廠",
+    "station_id": "42HA10",
+    "location": "南投縣仁愛鄉",
+    "coordinates": {
+      "lat": "23.978875",
+      "lon": "121.139639"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "20.5",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "70",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.3",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "東港工作站",
+    "station_id": "12Q970",
+    "location": "屏東縣東港鎮",
+    "coordinates": {
+      "lat": "22.479997",
+      "lon": "120.466058"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "27.2",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "66",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "210.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "口湖工作站",
+    "station_id": "12J990",
+    "location": "雲林縣口湖鄉",
+    "coordinates": {
+      "lat": "23.589978",
+      "lon": "120.180394"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "81",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "2.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "恆春工作站",
+    "station_id": "12Q980",
+    "location": "屏東縣車城鄉",
+    "coordinates": {
+      "lat": "22.079678",
+      "lon": "120.714425"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "27.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "62",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "5.2",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "80.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "大庄合作社",
+    "station_id": "V2K610",
+    "location": "雲林縣二崙鄉",
+    "coordinates": {
+      "lat": "23.806800",
+      "lon": "120.367939"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "22.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "79",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "20.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "麥寮合作社",
+    "station_id": "V2K620",
+    "location": "雲林縣麥寮鄉",
+    "coordinates": {
+      "lat": "23.753836",
+      "lon": "120.294783"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "-99",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "-99",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "-99",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "-99",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "太麻里(1)",
+    "station_id": "E2S980",
+    "location": "臺東縣太麻里鄉",
+    "coordinates": {
+      "lat": "22.598922",
+      "lon": "120.980044"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "25.1",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "73",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "太麻里(2)",
+    "station_id": "E2S960",
+    "location": "臺東縣太麻里鄉",
+    "coordinates": {
+      "lat": "22.598000",
+      "lon": "120.997750"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.8",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "64",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.1",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "150.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "晴",
+        "unit": ""
+      }
+    },
+    "raw_weather": "晴",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "桃改臺北",
+    "station_id": "72AI40",
+    "location": "新北市樹林區",
+    "coordinates": {
+      "lat": "24.944503",
+      "lon": "121.386972"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.9",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "64",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.0",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "0.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "畢祿溪站",
+    "station_id": "E2HA20",
+    "location": "南投縣仁愛鄉",
+    "coordinates": {
+      "lat": "24.226944",
+      "lon": "121.308522"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "13.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "66",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "30.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "蘭花園區",
+    "station_id": "A2N290",
+    "location": "臺南市後壁區",
+    "coordinates": {
+      "lat": "23.340258",
+      "lon": "120.379661"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.3",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "70",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "340.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "宜蘭畜試",
+    "station_id": "B2U990",
+    "location": "宜蘭縣五結鄉",
+    "coordinates": {
+      "lat": "24.669039",
+      "lon": "121.832561"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "25.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "75",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "0.6",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "10.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "雲林臺大",
+    "station_id": "A2K630",
+    "location": "雲林縣虎尾鎮",
+    "coordinates": {
+      "lat": "23.730628",
+      "lon": "120.423903"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "23.0",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "74",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "3.4",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "360.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "陰",
+        "unit": ""
+      }
+    },
+    "raw_weather": "陰",
+    "visibility": "-99"
+  },
+  {
+    "station_name": "六龜林試",
+    "station_id": "E2P980",
+    "location": "高雄市六龜區",
+    "coordinates": {
+      "lat": "22.991703",
+      "lon": "120.645722"
+    },
+    "observation_time": "2026-02-24T16:00:00+08:00",
+    "weather_elements": {
+      "TEMP": {
+        "value": "26.6",
+        "unit": "°C"
+      },
+      "HUMD": {
+        "value": "62",
+        "unit": "%"
+      },
+      "PRES": {
+        "value": "-99",
+        "unit": "hPa"
+      },
+      "WDSD": {
+        "value": "1.7",
+        "unit": "m/s"
+      },
+      "WDIR": {
+        "value": "260.0",
+        "unit": "degrees"
+      },
+      "UVI": {
+        "value": "-99",
+        "unit": "index"
+      },
+      "SUN": {
+        "value": "-99",
+        "unit": "hours"
+      },
+      "WEATHER": {
+        "value": "多雲",
+        "unit": ""
+      }
+    },
+    "raw_weather": "多雲",
+    "visibility": "-99"
+  }
+]
